@@ -1,5 +1,7 @@
 My name is MARCIO ROBERTO LEAL FERREIRA
 
-I'm a software developer, specialist in:
+(React JS | Node JS | Javascript | HTML | CSS | Typescript | Java | Spring Boot | Delphi) 🚀
 
-Delphi | JavaScript | NodeJs | ReactJs
+👩‍💻 Systems Analyst in @softtek
+🎓 Computer Science Graduated @UNINORTE
+🌐 Passionate about development
