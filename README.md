@@ -2,7 +2,7 @@ Hi There!
 
 My name is MARCIO ROBERTO LEAL FERREIRA
 
-(Delphi | React JS | Node JS | Javascript | HTML | CSS | Bootstrap | Typescript | Java | Spring Boot) 🚀
+(Delphi | React | Node JS | Javascript | HTML | CSS | Bootstrap | Typescript | Java | Spring Boot) 🚀
 
 Father, loving husband and grandfather
 
