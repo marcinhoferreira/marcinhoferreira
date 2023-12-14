@@ -2,7 +2,7 @@
 
 My name is MARCIO ROBERTO LEAL FERREIRA.
 
-I'm software developer for desktop, web and mobile.
+I develop systems for desktop, web and mobile.
 
 (Delphi | React | Node JS | Javascript | HTML | CSS | Bootstrap | Typescript | Java | Spring Boot) 🚀
 
