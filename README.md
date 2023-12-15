@@ -8,7 +8,7 @@ I develop systems for desktop, web and mobile.
 
 Father, loving husband and grandfather
 
-👩‍💻 Analyst Developer Senior in @softtek
+👨‍💻 Analyst Developer Senior in @softtek
 
 🎓 Computer Science Graduated @UNINORTE
 
