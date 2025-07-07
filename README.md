@@ -28,6 +28,15 @@
 
 ---
 
+### 🛠️ DevOps & Infraestrutura
+
+- 🗂️ **Controle de versão**: Git, GitHub
+- 🐳 **Containers**: Docker
+- 🔁 **Mensageria**: RabbitMQ
+- ⚙️ **CI/CD**: Jenkins
+- 🧩 **Arquitetura**: Microsserviços com APIs REST
+
+---
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
@@ -68,9 +77,18 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Firebird](https://img.shields.io/badge/FirebirdSQL-Embedded-EE2E2E?style=flat-square)](https://firebirdsql.org/)
 
-
 ---
 
+### 🛠️ DevOps & Infrastructure
+
+[![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marcioferreiradev)
+[![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Messaging-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![Microservices](https://img.shields.io/badge/Microservices-Architecture-6DB33F?style=flat-square&logo=microgen&logoColor=white)](#)
+
+---
 ### 🚀 Featured Projects
 
 Here are a few repositories I've been working on:
