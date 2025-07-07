@@ -11,7 +11,7 @@
 
 - 👨‍💻 **Senior Systems Analyst** and founder of Leal Softwares
 - 🎓 **Computer Science Graduate** by [UniNorte](https://www.uninorte.com.br/)
-- 🛠️ Building systems with **Delphi**, **Java**, **React**, **NestJS**, **Next.js**, and more
+- 🛠️ Building applications with **Delphi**, **Java**, **React**, **NestJS**, **Next.js**, and more
 - 👨‍👩‍👧‍👦 Proud **father**, **loving husband**, and **happy grandfather**
 - 💡 Passionate about clean code, architecture and learning new technologies
 
