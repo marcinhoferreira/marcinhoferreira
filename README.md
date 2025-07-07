@@ -34,7 +34,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Horse](https://img.shields.io/badge/Horse_Framework-Web-red?style=flat-square)](https://github.com/HashLoad/horse)
+![Horse](https://img.shields.io/badge/Horse_Framework-Delphi-red?style=flat-square&logo=code)
 
 **Styling & UI:**  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
