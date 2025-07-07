@@ -28,13 +28,13 @@
 
 ---
 
-### 🛠️ DevOps & Infraestrutura
+### 🛠️ DevOps & Infrastructure
 
-- 🗂️ **Controle de versão**: Git, GitHub
+- 🗂️ **Version Control**: Git, GitHub
 - 🐳 **Containers**: Docker
-- 🔁 **Mensageria**: RabbitMQ
-- ⚙️ **CI/CD**: Jenkins
-- 🧩 **Arquitetura**: Microsserviços com APIs REST
+- 🔁 **Messaging**: RabbitMQ, Kafka
+- ⚙️ **CI/CD**: Jenkins, GitHub Actions
+- 🧩 **Architecture**: Microservices with REST APIs
 
 ---
 ### 🛠️ Tech Stack
@@ -77,8 +77,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Firebird](https://img.shields.io/badge/FirebirdSQL-Embedded-EE2E2E?style=flat-square)](https://firebirdsql.org/)
 
----
-
 ### 🛠️ DevOps & Infrastructure
 
 [![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
@@ -89,6 +87,7 @@
 [![Microservices](https://img.shields.io/badge/Microservices-Architecture-6DB33F?style=flat-square&logo=microgen&logoColor=white)](#)
 
 ---
+
 ### 🚀 Featured Projects
 
 Here are a few repositories I've been working on:
