@@ -35,6 +35,10 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Horse](https://img.shields.io/badge/Horse_Framework-Delphi-red?style=flat-square&logo=code)
+[![DevExpress](https://img.shields.io/badge/DevExpress-VCL%20Components-FF7200?style=for-the-badge)](https://www.devexpress.com/products/vcl/)
+[![FastReport](https://img.shields.io/badge/FastReport-Reporting%20Tool-0066CC?style=for-the-badge)](https://www.fast-report.com/en/product/fast-report-vcl/)
+[![FireDAC](https://img.shields.io/badge/FireDAC-Database%20Access-CC0000?style=for-the-badge)](https://docwiki.embarcadero.com/RADStudio/en/FireDAC)
+[![DataSnap](https://img.shields.io/badge/DataSnap-Multi%20Tier-3366CC?style=for-the-badge)](https://docwiki.embarcadero.com/RADStudio/en/DataSnap)
 
 **Styling & UI:**  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
