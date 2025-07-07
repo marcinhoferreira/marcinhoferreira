@@ -17,6 +17,15 @@
 
 ---
 
+### 🔗 Tools & Technologies
+
+- 🖥️ Desktop: Delphi (VCL/FMX), Firemonkey, DevExpress, FastReport
+- 🌐 Web/Mobile: React, Next.js, NestJS, Node.js, React Native
+- 🧩 Back-end: Java, Spring Boot, TypeScript, JavaScript
+- 📊 Databases: Oracle, SQL Server, PostgreSQL, MySQL/MariaDB, MongoDB, FirebirdSQL
+- ⚙️ ORM/Drivers: FireDAC, DataSnap, SequelizeORM, TypeORM, PrismaORM
+- 🚀 APIs: REST, GraphQL, SOAP
+
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
