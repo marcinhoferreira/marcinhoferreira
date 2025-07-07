@@ -55,9 +55,9 @@ Here are a few repositories I've been working on:
 
 <div align="center">
 
-![Marcio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcioferreiradev&show_icons=true&theme=radical)
+![Marcio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcinhoferreira&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcioferreiradev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcinhoferreira&layout=compact&theme=radical)
 
 </div>
 
@@ -65,9 +65,9 @@ Here are a few repositories I've been working on:
 
 ### 📫 Let's Connect
 
-- 📧 Email: **marcio.leal.dev@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcioferreiradev/)
-- 💻 [GitHub](https://github.com/marcioferreiradev)
+- 📧 Email: **marcio.sistemas@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcinhoferreira/)
+- 💻 [GitHub](https://github.com/marcinhoferreira)
 - 🌐 [Portfolio](#) *(adicione se tiver)*
 
 ---
