@@ -45,11 +45,13 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 ### 🐘 Delphi Ecosystem
-[![Horse](https://img.shields.io/badge/Horse-Framework-orange?style=for-the-badge)](https://github.com/HashLoad/horse)
-[![FastReport](https://img.shields.io/badge/FastReport-Reporting-0066CC?style=for-the-badge)](https://www.fast-report.com/en/product/fast-report-vcl/)
-[![FireDAC](https://img.shields.io/badge/FireDAC-Database-red?style=for-the-badge)](https://docwiki.embarcadero.com/RADStudio/en/FireDAC)
-[![DataSnap](https://img.shields.io/badge/DataSnap-MultiTier-3366CC?style=for-the-badge)](https://docwiki.embarcadero.com/RADStudio/en/DataSnap)
-[![DevExpress](https://img.shields.io/badge/DevExpress-VCL-FF7200?style=for-the-badge)](https://www.devexpress.com/products/vcl/)
+
+[![Horse](https://img.shields.io/badge/Horse-Framework-orange?style=flat-square)](https://github.com/HashLoad/horse)
+[![FastReport](https://img.shields.io/badge/FastReport-Reporting-0066CC?style=flat-square)](https://www.fast-report.com/en/product/fast-report-vcl/)
+[![FireDAC](https://img.shields.io/badge/FireDAC-Database-red?style=flat-square)](https://docwiki.embarcadero.com/RADStudio/en/FireDAC)
+[![DataSnap](https://img.shields.io/badge/DataSnap-MultiTier-3366CC?style=flat-square)](https://docwiki.embarcadero.com/RADStudio/en/DataSnap)
+[![DevExpress](https://img.shields.io/badge/DevExpress-VCL-FF7200?style=flat-square)](https://www.devexpress.com/products/vcl/)
+
 
 **Styling & UI:**  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -57,12 +59,13 @@
 
 ### 🗄️ Databases
 
-[![Oracle](https://img.shields.io/badge/Oracle-DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-Microsoft-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL/MariaDB-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://mariadb.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Firebird](https://img.shields.io/badge/FirebirdSQL-Embedded-EE2E2E?style=for-the-badge)](https://firebirdsql.org/)
+[![Oracle](https://img.shields.io/badge/Oracle-DB-F80000?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-Microsoft-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL/MariaDB-Relational-005C84?style=flat-square&logo=mysql&logoColor=white)](https://mariadb.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Firebird](https://img.shields.io/badge/FirebirdSQL-Embedded-EE2E2E?style=flat-square)](https://firebirdsql.org/)
+
 
 ---
 
