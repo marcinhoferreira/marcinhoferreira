@@ -97,7 +97,7 @@ Here are a few repositories I've been working on:
 - 🔹 [Volkar Online](https://app.volkaronline.com.br) — E-commerce Application, by Volkar Group (NestJS + ReactJS)
 - 🔹 [RAIO Zeus Web](https://app.raiozeus.com.br) — Business Management Application, by Raio Rastreadores [(https://raiorastreadores.com.br/)](https://raiorastreadores.com.br/) (NestJS + Next.js)
 - 🔹 [Easy School Manager](https://github.com/marcioferreiradev/easyschoolmanager) — A complete school management SaaS with multi-tenant architecture (NestJS + Next.js)
-- 🔹 [Delphi Horse Framework](https://github.com/HashLoad/horse.git) - Task Manager API for an simple user task manager app
+- 🔹 [Task Manager Delphi React](https://github.com/marcinhoferreira/task-manager-delphi-react.git) - Simple User Task Manager Application (Delphi + Horse + ReactJS)
 - 🔹 [Anotar Pedido API](https://github.com/marcinhoferreira/anotar-pedido-backend.git) - API for Anotar Pedido application SaaS with multi-tenant architecture (NestJS + NextJS)
 
 ---
