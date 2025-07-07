@@ -4,7 +4,7 @@ My name is MARCIO ROBERTO LEAL FERREIRA.
 
 I develop systems for desktop, web and mobile.
 
-(Delphi | React | Node JS | NestJS | Javascript | Typescript | NextJS | HTML | CSS | Bootstrap | TailwindCSS | Typescript | Java | Spring Boot) 🚀
+(Delphi | React | React Native | Node JS | NestJS | Javascript | Typescript | NextJS | HTML | CSS | Bootstrap | TailwindCSS | Typescript | Java | Spring Boot) 🚀
 
 Father, loving husband and grandfather
 
