@@ -30,7 +30,7 @@
 
 ### 🛠️ DevOps & Infrastructure
 
-- 🗂️ **Version Control**: Git, GitHub
+- 🗂️ **Version Control**: Git, GitHub, SVN
 - 🐳 **Containers**: Docker
 - 🔁 **Messaging**: RabbitMQ, Kafka
 - ⚙️ **CI/CD**: Jenkins, GitHub Actions
