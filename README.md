@@ -9,7 +9,7 @@
 
 ### 💼 About Me
 
-- 👨‍💻 **Senior Systems Analyst**
+- 👨‍💻 **Senior Systems Analyst** and founder of Leal Softwares
 - 🎓 **Computer Science Graduate** @ UNINORTE
 - 🛠️ Building systems with **Delphi**, **Java**, **React**, **NestJS**, **Next.js**, and more
 - 👨‍👩‍👧‍👦 Proud **father**, **loving husband**, and **happy grandfather**
@@ -25,6 +25,8 @@
 - 📊 Databases: Oracle, SQL Server, PostgreSQL, MySQL/MariaDB, MongoDB, FirebirdSQL
 - ⚙️ ORM/Drivers: FireDAC, DataSnap, SequelizeORM, TypeORM, PrismaORM
 - 🚀 APIs: REST, GraphQL, SOAP
+
+---
 
 ### 🛠️ Tech Stack
 
