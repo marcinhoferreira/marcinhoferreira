@@ -46,8 +46,8 @@
 Here are a few repositories I've been working on:
 
 - 🔹 [EasySchoolManager](https://github.com/marcioferreiradev/easyschoolmanager) — A complete school management SaaS with multi-tenant architecture (NestJS + Next.js)
-- 🔹 [Delphi REST Framework](#) *(adicione se tiver algo público relacionado a Delphi)*
-- 🔹 [Câmara/Senado Scraper](#) *(adicione se for público)*
+- 🔹 [Delphi Horse Framework](https://github.com/HashLoad/horse.git) - Task Manager API for an simple user task manager app
+- 🔹 [API Anotar Pedido](https://github.com/marcinhoferreira/anotar-pedido-backend.git) - API for Anotar Pedido application SaaS with multi-tenant architecture (NestJS + NextJS)
 
 ---
 
