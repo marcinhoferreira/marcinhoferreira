@@ -9,7 +9,7 @@
 
 ### 💼 About Me
 
-- 👨‍💻 **Senior Systems Analyst** and founder of Leal Softwares
+- 👨‍💻 **Senior Fullstack Developer** and founder of Leal Softwares
 - 🎓 **Computer Science Graduate** by [UniNorte](https://www.uninorte.com.br/)
 - 🛠️ Building applications with **Delphi**, **Java**, **React**, **NestJS**, **Next.js**, and more
 - 👨‍👩‍👧‍👦 Proud **father**, **loving husband**, and **happy grandfather**
